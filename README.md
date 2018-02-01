@@ -1,6 +1,8 @@
 # blackjack
 The player can get the bonus by throwing the chips, as long as the number of their points exceeds the opponent and does not exceed twenty-one points. 
-![Alt text](https://github.com/1.png)
+
+![Alt text](https://github.com/blackjackgame/blackjack/blob/master/1.png)
+
 
 Center center server
 
